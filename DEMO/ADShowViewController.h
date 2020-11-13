@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ADShowViewController.h
 //  DEMO
 //
 //  Created by 揭康伟 on 2020/11/12.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface ADShowViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
