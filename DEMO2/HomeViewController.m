@@ -255,7 +255,7 @@
 
 - (void)onClickAI:(UIButton *)sender
 {
-    
+    //用户2第一次提交
 }
 
 - (void)onClickVIP:(UIButton *)sender
