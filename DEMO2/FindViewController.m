@@ -23,7 +23,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     [self initUI];
-    
+    //用户1 16:41
+    //用户1 17:20
 }
 
 - (void)initUI
