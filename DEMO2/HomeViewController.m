@@ -265,7 +265,7 @@
 
 - (void)onClickPK:(UIButton *)sender
 {
-    
+    //用户1第一次提交
 }
 
 - (void)onClickVideo:(UIButton *)sender
