@@ -270,7 +270,7 @@
 
 - (void)onClickVideo:(UIButton *)sender
 {
-    
+    //用户2第三次提交
 }
 
 - (UIView *)cameraView
