@@ -260,7 +260,7 @@
 
 - (void)onClickVIP:(UIButton *)sender
 {
-    
+    //用户2第二次提交
 }
 
 - (void)onClickPK:(UIButton *)sender
